@@ -10,7 +10,15 @@
     },
     {
       "id": 2,
-      "title": "Practical 1",
+      "title": "Practical 2",
+      "link": "https://react-practical-1.netlify.app/",
+      "Repo_link": "https://github.com/Akash52/react-sm-practice/tree/practical-1",
+      "des": "Using React CRA we simply Print Hello World in React Home Page.",
+      "image_link": ""
+    },
+    {
+      "id": 3,
+      "title": "Practical 3",
       "link": "https://react-practical-1.netlify.app/",
       "Repo_link": "https://github.com/Akash52/react-sm-practice/tree/practical-1",
       "des": "Using React CRA we simply Print Hello World in React Home Page.",
