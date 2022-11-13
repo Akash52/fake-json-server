@@ -215,5 +215,117 @@
       "password": "123456",
       "id": 18
     }
+  ],
+
+  "tvData": [
+    {
+      "id": 1,
+      "name": "Samsung",
+      "price": 10000,
+      "quantity": 10,
+      "country": "India",
+      "date": "2020-01-01",
+      "tvType": "LED",
+      "tvSize": "32"
+    },
+    {
+      "id": 2,
+      "name": "Sony",
+      "price": 20000,
+      "quantity": 20,
+      "country": "USA",
+      "date": "2020-01-02",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    },
+    {
+      "id": 3,
+      "name": "LG",
+      "price": 30000,
+      "quantity": 30,
+      "country": "UK",
+      "date": "2020-01-03",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 2000000
+    },
+    {
+      "id": 4,
+      "name": "Panasonic",
+      "price": 40000,
+      "quantity": 40,
+      "country": "Japan",
+      "date": "2020-01-04",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 1000000
+    },
+    {
+      "id": 5,
+      "name": "Toshiba",
+      "price": 50000,
+      "quantity": 50,
+      "country": "China",
+      "date": "2020-01-05",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 1000000
+    },
+    {
+      "id": 6,
+      "name": "Philips",
+      "price": 60000,
+      "quantity": 60,
+      "country": "India",
+      "date": "2020-01-06",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    },
+    {
+      "id": 7,
+      "name": "Onida",
+      "price": 70000,
+      "quantity": 70,
+      "country": "USA",
+      "date": "2020-01-07",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 2000000
+    },
+    {
+      "id": 8,
+      "name": "Videocon",
+      "price": 80000,
+      "quantity": 80,
+      "country": "UK",
+      "date": "2020-01-08",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 1000000
+    },
+    {
+      "id": 9,
+      "name": "Mitashi",
+      "price": 90000,
+      "quantity": 90,
+      "country": "Japan",
+      "date": "2020-01-09",
+      "tvType": "LED",
+      "tvSize": "32",
+      "totalSales": 1000000
+    },
+    {
+      "id": 10,
+      "name": "BPL",
+      "price": 100000,
+      "quantity": 100,
+      "country": "China",
+      "date": "2020-01-10",
+      "tvType": "LCD",
+      "tvSize": "42",
+      "totalSales": 2000000
+    }
   ]
 }
