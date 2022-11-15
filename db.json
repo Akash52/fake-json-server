@@ -327,5 +327,61 @@
       "tvSize": "42 inch",
       "totalSales": 2000000
     }
+  ],
+  "tvSells": [
+    {
+      "month": "January",
+      "country": "United States",
+      "year": 2021,
+      "lg": 50000,
+      "samsung": 25000,
+      "sony": 35000,
+      "total": 8
+    },
+    {
+      "month": "February",
+      "country": "United States",
+      "year": 2021,
+      "lg": 75000,
+      "samsung": 45000,
+      "sony": 40000,
+      "total": 8
+    },
+    {
+      "month": "March",
+      "country": "United States",
+      "year": 2021,
+      "lg": 38000,
+      "samsung": 72000,
+      "sony": 65000,
+      "total": 8
+    },
+    {
+      "month": "January",
+      "country": "Japan",
+      "year": 2021,
+      "lg": 70000,
+      "samsung": 65000,
+      "sony": 55000,
+      "total": 8
+    },
+    {
+      "month": "February",
+      "country": "Japan",
+      "year": 2021,
+      "lg": 65000,
+      "samsung": 35000,
+      "sony": 70000,
+      "total": 8
+    },
+    {
+      "month": "March",
+      "country": "Japan",
+      "year": 2021,
+      "lg": 28000,
+      "samsung": 78000,
+      "sony": 45000,
+      "total": 8
+    }
   ]
 }
