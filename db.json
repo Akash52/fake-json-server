@@ -422,13 +422,13 @@
       "available_date": "2023-05-01",
       "is_furnished": true,
       "square_feet": 1000,
-      "bedrooms": 2,
-      "bathrooms": 1.5,
+      "bedrooms": 3,
+      "bathrooms": 1,
       "pets_allowed": true,
       "contact_name": "John Doe",
       "contact_email": "johndoe@example.com",
       "contact_phone": "(123) 456-7890",
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8SG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=50",
+      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=50",
       "id": 1
     },
     {
@@ -448,7 +448,7 @@
       "contact_email": "janesmith@example.com",
       "contact_phone": "(123) 456-7890",
       "id": 2,
-      "image": "https://images.unsplash.com/photo-1460317442991-0ec209397118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YXBhcnRtZW50fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=50"
+      "image": " https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8SG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=50"
     },
     {
       "id": 3,
@@ -461,8 +461,8 @@
       "available_date": "2023-07-01",
       "is_furnished": true,
       "square_feet": 800,
-      "bedrooms": 0,
-      "bathrooms": 1,
+      "bedrooms": 4,
+      "bathrooms": 2,
       "pets_allowed": false,
       "contact_name": "Bob Johnson",
       "contact_email": "bobjohnson@example.com",
@@ -485,7 +485,7 @@
       "contact_name": "Johne way",
       "contact_email": "json@gmail.com",
       "contact_phone": "7285671867",
-      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+      "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=50",
       "id": 4
     },
     {
@@ -504,7 +504,7 @@
       "contact_name": "Johne way",
       "contact_email": "json@gmail.com",
       "contact_phone": "1234567890",
-      "image": "https://images.unsplash.com/photo-1531971589569-0d9370cbe1e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZXJuJTIwaG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "image": "https://images.unsplash.com/photo-1531971589569-0d9370cbe1e5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZXJuJTIwaG91c2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=50",
       "id": 5
     },
     {
@@ -523,7 +523,7 @@
       "contact_name": "Johne way",
       "contact_email": "json@gmail.com",
       "contact_phone": "1234567890",
-      "image": "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1vZGVybiUyMGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "image": "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1vZGVybiUyMGhvdXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=50",
       "id": 6
     },
     {
@@ -542,7 +542,7 @@
       "contact_name": "Johne way",
       "contact_email": "json@gmail.com",
       "contact_phone": "1234567890",
-      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80",
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=50",
       "id": 7
     }
   ]
